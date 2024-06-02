@@ -1,9 +1,9 @@
 name: sa_orange_lego
 description: "orange template under simple architecture framework"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/sa_orange_lego
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
